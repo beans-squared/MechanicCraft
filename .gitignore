@@ -1,0 +1,13 @@
+crash-reports/
+journeymap/
+local/
+logs/
+natives/
+resourcepacks/
+saves/
+
+background.jpeg
+config.json
+crafttweaker.log
+options.txt
+patchouli_data.json
