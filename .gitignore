@@ -13,3 +13,5 @@ config.json
 crafttweaker.log
 options.txt
 patchouli_data.json
+usercache.json
+usernamecache.json
