@@ -1,4 +1,6 @@
-config/InvTweaks.cfg
+config/jei/searchColors.cfg
+config/jei/worldSettings.cfg
+config/quark_emotes
 config/splash.properties
 crash-reports/
 journeymap/
@@ -9,6 +11,7 @@ resourcepacks/
 saves/
 
 background.jpeg
+config_new_temp.json
 config.json
 crafttweaker.log
 options.txt
